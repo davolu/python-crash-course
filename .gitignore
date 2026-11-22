@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+diary.txt
+scores.csv
+recipe.json
+report.md
